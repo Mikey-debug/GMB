@@ -1,0 +1,28 @@
+[telegram]
+api_id = 6133145
+api_hash = "30d4307da4885a00c58089d5f5503b5b"
+
+[tekegram.bot]
+bot_token = "5039137200:AAFaiHptGRFHlEVH1swgtjBZDvoQhfvE_3U"
+name = "BadmosBot"
+username = "IcyHotRobot"
+user_id = 0
+
+[database]
+database_url = "mongodb+srv://hello:hello@cluster0.m5tfs.mongodb.net/?retryWrites=true&w=majority"
+
+[settings]
+owner = 2
+sudo_users = [6170129160, 2104674370]
+
+[settings.commands]
+prefix = ['!', '/']
+
+[settings.log]
+chat_id = 2118207736
+
+[settings.backup]
+chat_id = 2118207736
+
+[api.stella]
+api_key = ""
